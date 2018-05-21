@@ -37,11 +37,11 @@ Mediante una interfaz en java se manupulara completamente el brazo, y es el prot
 se implemento un boton que su funcionalidad es de hacer que se quede en stand by el brazo y al precionarlo de nuevo siga 
 con los pasos faltantes en el modo automatico
 # Interfaz de java modo manual
-![Una imagen cualquiera](manual.jpg "Evidencia")
+![Una imagen cualquiera](manual.png "Evidencia")
 se desplegara una ventana mostrando el nombre de cada motor(Pinza, Muñeca, Codo y Base), mediante slayers se seleccionaran
 los grados deceas que se movera el servo motor o el motor a paso en caso de que se mueva la Base, la cantidad de grados que se mueve un servo es entre 0 a 180 grados y en el caso del motor a pasos es de 1 a 4, que 2 es una vuelta completa.
 # Interfaz de java modo automatico
-![Una imagen cualquiera](automatico.jpg "Evidencia")
+![Una imagen cualquiera](automatico.png "Evidencia")
 En este caso no se desplegara una ventana, los textBox que se muestran en la imagen son para el modo automatico, de igual
 manera que el manual cada texbox viene especificado para que motor es, los moviemientos se guardaran por pasos, por 
 ejemplo: si deceamos abrir, cerrar, abrir la pinza se tendra que ingresar 3 pasos el primero es poner la pinza 180(pinza abierta) 
