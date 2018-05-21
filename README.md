@@ -33,7 +33,7 @@ Hay que tener en consideracion ciertas librerias que se utilizan para tanto java
 
 ## Funcionalidad
 El LCD mostrara en todo momento la modalidad en el que este el brazo S/N (sin escojer ningun modo), MANUAL y AUTOMANICO.
-Mediante una interfaz en java se manupulara completamente el brazo, y es el protagonista del funcionamiento del brazo.
+Mediante una interfaz en java se manipulara completamente el brazo, y es el protagonista del funcionamiento del brazo.
 se implemento un boton que su funcionalidad es de hacer que se quede en stand by el brazo y al precionarlo de nuevo siga 
 con los pasos faltantes en el modo automatico
 # Interfaz de java modo manual
