@@ -52,8 +52,6 @@ Hay que tener en consideracion ciertas librerias que se utilizan para tanto java
 ### Imagen del prototipo
 ![Una imagen cualquiera](Evidencia1.jpg "Evidencia")
 ![Una imagen cualquiera](Evidencia2.jpg "Evidencia")
-![Una imagen cualquiera](Evidencia3.jpg "Evidencia")
-![Una imagen cualquiera](java.jpg "Evidencia")
 ***
 ## Diagrama
 ### Imagen del esquema de conexion
